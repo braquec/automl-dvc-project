@@ -1,6 +1,6 @@
 data:
-  file: "dataset_v1.csv"
-  version: "v1"
+  file: "dataset_v2.csv"
+  version: "v2"
 preprocess:
   target: "MedHouseVal"
   features:
